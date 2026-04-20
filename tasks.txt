@@ -65,7 +65,7 @@ Week 9
 Depending on what seems more appropriate in your graph, pick one of the following
 random graph
 
-a) Erd?sÐRŽnyi,
+a) Erd?sï¿½Rï¿½nyi,
 
 b) Uniform Attachment,
 
