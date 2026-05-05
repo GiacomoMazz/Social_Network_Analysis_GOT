@@ -1,0 +1,74 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <list>
+          <option value="asttokens" />
+          <option value="async-generator" />
+          <option value="attrs" />
+          <option value="certifi" />
+          <option value="charset-normalizer" />
+          <option value="contourpy" />
+          <option value="cycler" />
+          <option value="decorator" />
+          <option value="docopt" />
+          <option value="executing" />
+          <option value="fonttools" />
+          <option value="h11" />
+          <option value="idna" />
+          <option value="importlib_metadata" />
+          <option value="ipython" />
+          <option value="ipython_pygments_lexers" />
+          <option value="jedi" />
+          <option value="Jinja2" />
+          <option value="jsonpickle" />
+          <option value="kiwisolver" />
+          <option value="MarkupSafe" />
+          <option value="matplotlib" />
+          <option value="matplotlib-inline" />
+          <option value="mypy_extensions" />
+          <option value="networkx" />
+          <option value="numpy" />
+          <option value="outcome" />
+          <option value="packaging" />
+          <option value="parso" />
+          <option value="pexpect" />
+          <option value="pillow" />
+          <option value="pipreqs" />
+          <option value="prompt_toolkit" />
+          <option value="ptyprocess" />
+          <option value="pure_eval" />
+          <option value="pyalex" />
+          <option value="Pygments" />
+          <option value="pyparsing" />
+          <option value="PySocks" />
+          <option value="python-dateutil" />
+          <option value="python-dotenv" />
+          <option value="pyvis" />
+          <option value="requests" />
+          <option value="selenium" />
+          <option value="six" />
+          <option value="sniffio" />
+          <option value="sortedcontainers" />
+          <option value="stack-data" />
+          <option value="traitlets" />
+          <option value="trio" />
+          <option value="trio-typing" />
+          <option value="trio-websocket" />
+          <option value="types-certifi" />
+          <option value="types-urllib3" />
+          <option value="typing_extensions" />
+          <option value="urllib3" />
+          <option value="wcwidth" />
+          <option value="webdriver-manager" />
+          <option value="websocket-client" />
+          <option value="wsproto" />
+          <option value="yarg" />
+          <option value="zipp" />
+          <option value="huggingface-hub" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
